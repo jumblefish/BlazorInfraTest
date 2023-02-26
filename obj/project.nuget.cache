@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "RDSvDLsDyfO2py10kgLIFDlcIsXBewdtUTIWXk1gM4QAaAmdIDt81/Ct+Kl3kvZYUFrWGF4qu/ad29D8p1fKDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nz\\source\\repos\\BlazorInfraTest\\BlazorInfraTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nz\\.nuget\\packages\\igniteui.blazor\\22.2.24\\igniteui.blazor.22.2.24.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.0\\microsoft.aspnetcore.components.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.0\\microsoft.aspnetcore.components.analyzers.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.0\\microsoft.aspnetcore.components.forms.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.0\\microsoft.aspnetcore.components.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.0\\microsoft.aspnetcore.metadata.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\microsoft.jsinterop\\6.0.0\\microsoft.jsinterop.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\system.io.pipelines\\6.0.0\\system.io.pipelines.6.0.0.nupkg.sha512",
+    "C:\\Users\\nz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
